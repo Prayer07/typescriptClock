@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95dvh;
+    background-color: black;
+}
+
+.clock{
+    width:500px;
+    height: 200px;
+    background-image: linear-gradient(to left, purple, blue);
+}
+
+h1{
+    background-image: linear-gradient(to left, purple, blue);
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+    text-align: center;
+    font-size: 5dvh;
+}
+
+h2{
+    padding-top: 33px;
+    text-align: center;
+}
+
+#time{
+    margin-top: 5px;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 10dvh;
+}
